@@ -158,7 +158,7 @@ async def fetch_posts(post_limit: int) -> list:
         "page": "dapi",
         "s": "post",
         "q": "index",
-        "tags": "deadlock",
+        "tags": "deadlock -ai_generated -1boy -fart -fart_fetish -futa_only -futanari -guro -hyper_ass -male_only -pregnancy -pregnant -super_belly",
         "limit": post_limit,
         "json": 1,
         "api_key": str(key),
